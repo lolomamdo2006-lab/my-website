@@ -21,7 +21,7 @@ font-family: cairo;
   border-bottom: 2px solid #ff8a00;
     border-top: 2px solid #ff8a00;
     border-left: 2px solid #e52e71;
-    border-right: 2px solid #e52e71}
+    border-right: 2px solid #e52e71;}
 
 section{
     width: 1000px;
@@ -154,4 +154,5 @@ h1,h4{
         font-size: 18px;
     }
 }
+
 
