@@ -123,3 +123,27 @@ h1,h4{
     height: auto;
   }
 }
+/* موبايلات */
+@media (max-width: 600px) {
+    body {
+        font-size: 14px;
+    }
+    nav ul {
+        flex-direction: column;
+        text-align: center;
+    }
+}
+
+/* تابلت */
+@media (min-width: 601px) and (max-width: 1024px) {
+    body {
+        font-size: 16px;
+    }
+}
+
+/* شاشات كبيرة */
+@media (min-width: 1025px) {
+    body {
+        font-size: 18px;
+    }
+}
