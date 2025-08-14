@@ -15,6 +15,13 @@ header{
     border-radius: 0px 0px 50px 50px;
 font-family: cairo;
 }
+#khahled {
+  box-shadow: 5px 5px 25px #7a818a;
+  border-radius: 50%;
+  border-bottom: 2px solid #ff8a00;
+    border-top: 2px solid #ff8a00;
+    border-left: 2px solid #e52e71;
+    border-right: 2px solid #e52e71}
 
 section{
     width: 1000px;
@@ -147,3 +154,4 @@ h1,h4{
         font-size: 18px;
     }
 }
+
